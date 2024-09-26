@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sanikhsan12
 - 👀 I’m interested in Fullstack Developer
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on backend project
+- 💞️ I’m looking to collaborate on some backend project
 - 📫 How to reach me you can go to my instagram @mikhsn._
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm a new programer who makes a lot of mistakes 😄
