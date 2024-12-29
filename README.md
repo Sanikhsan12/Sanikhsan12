@@ -1,7 +1,7 @@
 <!-- Banner1 -->
 <div align="center">
   
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hello%20Guys,%20I'm%20Muhammad%20Ikhsan👋&text2=interested%20in%20learning%20new%20things%20about%20programming&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Muhammad%20ikhsan;FullStack%20Developer;Gaming%20Enthusiast&color=#4b0082)](https://git.io/typing-svg)
 
 </div>
   
