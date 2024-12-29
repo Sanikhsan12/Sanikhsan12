@@ -1,7 +1,10 @@
 <!-- Banner1 -->
+<div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4B0082&center=true&vCenter=true&multiline=true&width=435&lines=Muhammad+Ikhsan;FullStack+Developer;Gaming+Enthusiast)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4B0082&center=true&vCenter=true&width=435&lines=Muhammad+Ikhsan;FullStack+Developer;Gaming+Enthusiast)](https://git.io/typing-svg)
+
+</div>
+
 <!-- Banner2 -->
   [![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)]()
 
