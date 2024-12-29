@@ -1,9 +1,6 @@
 <!-- Banner1 -->
-<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Muhammad%20ikhsan;FullStack%20Developer;Gaming%20Enthusiast&color=#4b0082&width=600&center=true)](https://git.io/typing-svg)
-
-</div>
   
 <!-- Banner2 -->
   [![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)]()
