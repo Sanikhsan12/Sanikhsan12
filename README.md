@@ -1,5 +1,5 @@
 <!-- Banner1 -->
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Sanikhsan12&bg=indigo&txt=Prompt%20Engineer"></p>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hello%20Guys,%20I'm%20Muhammad%20Ikhsan👋&text2=interested%20in%20learning%20new%20things%20about%20programming&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <!-- Banner2 -->
   [![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)]()
