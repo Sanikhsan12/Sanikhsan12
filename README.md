@@ -2,9 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deden...;" />
 </h1>-->
 
-<!-- Banner -->
-  [![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)]()
+<!-- Banner1 -->
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=MuhammadIkhsan&bg=blue&txt=A%20Full%20Stack%20Developer"></p>
 
+<!-- Banner2 -->
+  [![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)]()
 
 <!-- Stats -->
 <div align="center">
