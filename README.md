@@ -1,7 +1,3 @@
-<!--<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deden...;" />
-</h1>-->
-
 <!-- Banner1 -->
 <p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Sanikhsan12&bg=indigo&txt=A%20Full%20Stack%20Developer"></p>
 
@@ -66,9 +62,3 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </div>
-
-
-<!-- Counter -->
-<!--<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=fakhrezy&icon=10&color=6)](https://visitcount.itsvg.in)
-</div>-->
