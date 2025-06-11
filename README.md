@@ -44,3 +44,8 @@
   ![snake gif](https://github.com/Fakhrezy/Fakhrezy/blob/output/github-snake-dark.svg)
 </div>
 
+<!-- Countdown -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Sanikhsan12/count.svg?"  />
+</div>
+
