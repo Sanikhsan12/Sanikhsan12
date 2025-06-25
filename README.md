@@ -10,7 +10,7 @@
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://readme-stats-66oz7n9dz-sanikhsan12s-projects.vercel.app/api?username=Sanikhsan12&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="50%"/>
+  <img src="https://readme-stats-beta-eosin.vercel.app/api?username=Sanikhsan12&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="50%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanikhsan12&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanikhsan12&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> 
   <div align="center">
