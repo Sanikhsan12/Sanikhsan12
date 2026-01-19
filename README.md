@@ -11,8 +11,6 @@
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://readme-stats-beta-eosin.vercel.app/api?username=Sanikhsan12&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanikhsan12&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanikhsan12&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> 
   <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanikhsan12&radius=16&theme=dracula&area=true&order=5&hide_title=false&hide_border=true" height="250" alt="activity-graph graph"  />
@@ -34,26 +32,6 @@
   
 ## 🌐 Connect with Me 🍬
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/qA9ydNVe) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/19pbY1Gi79/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mikhsn._) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ZanZanSan) 
-
-</div>
-
-
-
-<!-- Snake -->
-<div align="center">
-    
-  ![snake gif](https://github.com/Fakhrezy/Fakhrezy/blob/output/github-snake-dark.svg)
-</div>
-
-<!-- Countdown -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Sanikhsan12/count.svg?"  />
-</div>
-
-<div align = "center">
-  
-  <!-- Banner2 -->
-  [![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)]()
 
 </div>
 
