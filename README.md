@@ -1,7 +1,7 @@
 <!-- Banner1 -->
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4B0082&center=true&vCenter=true&width=435&lines=Muhammad+Ikhsan;FullStack+Developer;Gaming+Enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4B0082&center=true&vCenter=true&width=435&lines=Muhammad+Ikhsan;Coding+Enthusiast;Gaming+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
