@@ -5,15 +5,15 @@
 
 </div>
 
-
+<!-- <div align="center">
+    <img src="readme-stats-beta-eosin.vercel.app/api/top-langs/?username=Sanikhsan12&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%"  />
+</div>   -->
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanikhsan12&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> 
   <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanikhsan12&radius=16&theme=dracula&area=true&order=5&hide_title=false&hide_border=true" height="250" alt="activity-graph graph"  />
   </div>
-</br>
 </div>
 
 
